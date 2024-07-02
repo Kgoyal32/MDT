@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MDTact2</string>
+    <array name="mobileinfoandspec">
+        <item>Mobile Info And Spec-</item>
+        <item>Check Mobile Info</item>
+        <item>Software And Hardware</item>
+        <item>Battery Condition</item>
+        <item>Network Signal Status</item>
+        <item>Camera,Sound and Display</item>
+    </array>
+
+    <string name="app_name2">MDTact2</string>
+    <array name="mobileinfoandspec2">
+        <item>Sensors Test-</item>
+        <item>Sensors Available</item>
+        <item>Motion</item>
+        <item>Position</item>
+        <item>Environment</item>
+    </array>
+
+    <string name="app_name3">MDTact2</string>
+    <array name="mobileinfoandspec3">
+        <item>Data Storage And Memory-</item>
+        <item>Call Logs</item>
+        <item>Int. And Ext. Memory</item>
+        <item>Report Generation</item>
+
+    </array>
+</resources>
